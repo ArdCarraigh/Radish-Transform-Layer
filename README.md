@@ -1,5 +1,6 @@
 # Radish Transform Layer
  Allows to transform layer created with radish with different position/rotation in the same or different hubs.
+ Requires PyYAML and NumPy.
  
  How to use:
  - Execute the script, it will ask for two files and one directory.
